@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Gotham";
+  font-weight: normal;
+  src: url("./assets/Gotham-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Gothamb";
+  font-weight: normal;
+  src: url("./assets/GothamBook.ttf") format("opentype");
+}
+
+#app {
+  font-family: "Gotham";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("./assets/gradient.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 100% 75%;
+  background-color: #200569;
+  width: 100%;
+}
