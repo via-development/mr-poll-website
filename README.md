@@ -1,4 +1,4 @@
-# mrpollfrontend
+# Mr Poll Website
 
 ## Project setup
 ```
