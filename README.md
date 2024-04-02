@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# mr-poll-website
-=======
 # mrpollfrontend
 
 ## Project setup
@@ -20,4 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> c98cb8f (Website push pls work)
