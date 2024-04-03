@@ -16,6 +16,7 @@ module.exports = {
     screens: {
 
       'lg': {'max': '992px'},
+      'md': {'max': '670px'},
     },
     extend: {},
   },
