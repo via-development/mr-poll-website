@@ -1,6 +1,6 @@
 from fastapi_discord import DiscordOAuthClient
 
-from dotenv import load_dotenv, dotenv_values 
+from dotenv import load_dotenv 
 load_dotenv() 
 
 
