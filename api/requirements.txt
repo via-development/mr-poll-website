@@ -1,0 +1,6 @@
+fastapi==0.103.2
+fastapi-discord==0.2.5
+python-dotenv==1.0.0
+slowapi==0.1.8
+SQLAlchemy==1.4.47
+uvicorn==0.21.1
